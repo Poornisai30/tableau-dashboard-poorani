@@ -1,10 +1,11 @@
-# My Tableau Dashboard
+# Tableau Dashboard Project
 
+**Objective:** A dashboard showing electric vehicle sales trends.
 
-A short sentence: This dashboard shows electric vehicle sales trends. Live viz: https://public.tableau.com/views/your-work
+**Tools:** Tableau Public
 
+## Live Dashboard
+[View Live on Tableau Public](https://github.com/Poornisai30/tableau-dashboard-poorani)
 
 ## Screenshot
-
-
-![Tableau screenshot](assets/your-image-filename.png)
+![Dashboard Screenshot](assets/dashboard-screenshot.png)
